@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class Gift{
   final String id;
   final String url;
